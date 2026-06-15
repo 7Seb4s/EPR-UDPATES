@@ -1,7 +1,10 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/7Seb4s/EPR-UDPATES",
+  "version": "1.1.1",
+  "downloadUrl": "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.1.1/ERP-Calzado-Piolito-1.1.1.exe",
+  "size": ...,
+  "sha256": "...",
   "notes": [
-    "Prueba de actualización"
+    "Gerente solo lectura",
+    "Calendario editable para gerente"
   ]
 }
