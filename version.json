@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.1.1/ERP-Calzado-Piolito-1.1.1.exe",
-  "size": ...,
-  "sha256": "...",
-  "notes": [
-    "Gerente solo lectura",
-    "Calendario editable para gerente"
-  ]
+    "version":  "1.1.1",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.1.1/ERP-Calzado-Piolito-1.1.1.exe",
+    "size":  93113344,
+    "sha256":  "b1ea5f13c4f6e24a4443168ca3b209ede977a4c3292fa89d7098042f54a80661",
+    "notes":  [
+                  "Nueva categoria Baby Piolito (tallas 15-19, consumo fijo 0.7)",
+                  "Sistema de actualizaciones automaticas (descarga + verificacion SHA-256 + instalacion)"
+              ]
 }
