@@ -1,9 +1,11 @@
+
 {
-    "version":  "1.1.3",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.1.3/ERP-Calzado-Piolito-1.1.3.exe",
-    "size":  93137920,
-    "sha256":  "014347e7e5fef085f2d87ae4cb33f7af24f7374c670f7bd1b4b4915d8e783b43",
+    "version":  "1.1.4",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.1.4/ERP-Calzado-Piolito-1.1.4.exe",
+    "size":  93142016,
+    "sha256":  "ec7f7edb7682fe4a3245ae3654bb50440d66da34df0dea8ce48dadf4740b3de5",
     "notes":  [
-        
+                  "Correcion de los pdfs",
+                  "correcion de inventarios"
               ]
 }
