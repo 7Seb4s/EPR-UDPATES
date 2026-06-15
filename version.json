@@ -4,7 +4,6 @@
     "size":  93137920,
     "sha256":  "014347e7e5fef085f2d87ae4cb33f7af24f7374c670f7bd1b4b4915d8e783b43",
     "notes":  [
-                  "Nueva categoria Baby Piolito (tallas 15-19, consumo fijo 0.7)",
-                  "Sistema de actualizaciones automaticas (descarga + verificacion SHA-256 + instalacion)"
+        
               ]
 }
