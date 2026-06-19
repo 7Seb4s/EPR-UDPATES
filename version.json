@@ -1,15 +1,13 @@
 {
-    "version":  "1.2.0",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.2.0/ERP-Calzado-Piolito-1.2.0.exe",
-    "size":  93281280,
-    "sha256":  "95a31366b47d86dce7dc0f0d429f64030ee80ca61a094c21b52f840fbc507666",
-    "notes":  [
-                  "Piolito AI Assistant con consultas inteligentes mediante Gemini y permisos por rol.",
-        "Nuevo Piolito Chat Interno V1 para comunicación entre trabajadores.",
-        "Compras V2 con órdenes de compra multi-material y mejoras de interfaz.",
-        "Nuevo módulo de Demanda y Planificación con dashboard mejorado.",
-        "Unificación del color de cuero desde Ventas hasta Producción y PDFs.",
-        "Baby Piolito actualizado con rango de tallas 15-21.",
-        "Nuevos filtros de búsqueda por cliente y mejoras generales de experiencia."
-              ]
+    "version":  "1.3.0",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.3.0/ERP-Calzado-Piolito-1.3.0.exe",
+    "size":  93424640,
+    "sha256":  "44da2837d29fba59cb2c6a4c690b714cd6c64a871d8350471e4d02a68984b66e",
+"notes": [
+    "Nuevo modulo Finanzas Inteligentes V1.",
+    "Control de cuentas, ingresos, gastos y transferencias.",
+    "Dashboard financiero con graficos y reportes.",
+    "Categorias, presupuestos y comprobantes digitales.",
+    "Mejoras generales de estabilidad y experiencia de usuario."
+]
 }
