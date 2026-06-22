@@ -1,13 +1,14 @@
+
 {
-    "version":  "1.3.0",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.3.0/ERP-Calzado-Piolito-1.3.0.exe",
-    "size":  93424640,
-    "sha256":  "44da2837d29fba59cb2c6a4c690b714cd6c64a871d8350471e4d02a68984b66e",
-"notes": [
-    "Nuevo modulo Finanzas Inteligentes V1.",
-    "Control de cuentas, ingresos, gastos y transferencias.",
-    "Dashboard financiero con graficos y reportes.",
-    "Categorias, presupuestos y comprobantes digitales.",
-    "Mejoras generales de estabilidad y experiencia de usuario."
+    "version":  "1.4.0",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.4.0/ERP-Calzado-Piolito-1.4.0.exe",
+    "size":  93498368,
+    "sha256":  "40af48ef73ff9bfdfc49a79cde599626adc72b2f5213c6a22c623639a524bd5c",
+ "notes": [
+    "Compras de plantas por talla con curvas de tallas",
+    "Recepcion parcial de plantas y actualizacion automatica del inventario por talla",
+    "Generacion de stickers desde pedidos usando datos de produccion",
+    "Mejoras visuales en el inventario de plantas y distribucion por tallas",
+    "Migracion completa de plantas, cueros e insumos al nuevo inventario"
 ]
 }
