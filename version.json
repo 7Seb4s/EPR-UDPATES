@@ -1,14 +1,12 @@
-
 {
-    "version":  "1.4.0",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.4.0/ERP-Calzado-Piolito-1.4.0.exe",
+    "version":  "1.6.0",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.6.0/ERP-Calzado-Piolito-1.6.0.exe",
     "size":  93498368,
-    "sha256":  "40af48ef73ff9bfdfc49a79cde599626adc72b2f5213c6a22c623639a524bd5c",
- "notes": [
-    "Compras de plantas por talla con curvas de tallas",
-    "Recepcion parcial de plantas y actualizacion automatica del inventario por talla",
-    "Generacion de stickers desde pedidos usando datos de produccion",
-    "Mejoras visuales en el inventario de plantas y distribucion por tallas",
-    "Migracion completa de plantas, cueros e insumos al nuevo inventario"
-]
+    "sha256":  "8a13e630d2f5822234226ad9ad4284e3718c55253e30def57d5c514e78e3261d",
+    "notes":  [
+                  "Stickers de caja: impresion en una sola columna, margen izquierdo 0 y mejor separacion/centrado",
+                  "Tarjeta de OP: nuevo campo COLOR y descripcion de produccion (definida por Ventas)",
+                  "Tarjetas compactas: muestran CERCO cuando el par lo lleva",
+                  "Correccion al imprimir stickers: si el sistema no permite impresion directa, abre el PDF para imprimir"
+              ]
 }
