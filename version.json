@@ -1,12 +1,11 @@
 {
-    "version":  "1.6.0",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.6.0/ERP-Calzado-Piolito-1.6.0.exe",
-    "size":  93498368,
-    "sha256":  "8a13e630d2f5822234226ad9ad4284e3718c55253e30def57d5c514e78e3261d",
+    "version":  "1.6.3",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.6.3/ERP-Calzado-Piolito-1.6.3.exe",
+    "size":  93510656,
+    "sha256":  "a8c62f3b0095046394dab696153a521eeb78202d74bd575c16031870d45a6e12",
     "notes":  [
-                  "Stickers de caja: impresion en una sola columna, margen izquierdo 0 y mejor separacion/centrado",
-                  "Tarjeta de OP: nuevo campo COLOR y descripcion de produccion (definida por Ventas)",
-                  "Tarjetas compactas: muestran CERCO cuando el par lo lleva",
-                  "Correccion al imprimir stickers: si el sistema no permite impresion directa, abre el PDF para imprimir"
+                  "Ventas: al cancelar un pedido, sus ordenes de produccion se cancelan automaticamente",
+                  "Ventas: nuevo PDF consolidado por cliente con desglose de IGV (18%): valor de venta, subtotal y total",
+                  "Consolidado por cliente: incluye condiciones de pago (60%/40%) y datos de la cuenta BCP"
               ]
 }
