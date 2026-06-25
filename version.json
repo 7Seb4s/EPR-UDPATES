@@ -1,11 +1,10 @@
 {
-    "version":  "1.6.3",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.6.3/ERP-Calzado-Piolito-1.6.3.exe",
+    "version":  "1.6.6",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.6.6/ERP-Calzado-Piolito-1.6.6.exe",
     "size":  93510656,
-    "sha256":  "a8c62f3b0095046394dab696153a521eeb78202d74bd575c16031870d45a6e12",
+    "sha256":  "765d0941f89f62a1419c4af34a18de62576253f5e92ed976e86d5dc1510efa3b",
     "notes":  [
-                  "Ventas: al cancelar un pedido, sus ordenes de produccion se cancelan automaticamente",
-                  "Ventas: nuevo PDF consolidado por cliente con desglose de IGV (18%): valor de venta, subtotal y total",
-                  "Consolidado por cliente: incluye condiciones de pago (60%/40%) y datos de la cuenta BCP"
+                  "CRM: cobranzas, reclamos, seguimientos y devoluciones muestran siempre el nombre actual del cliente (se sincroniza al editar la ficha del cliente)",
+                  "PDF Consolidado de produccion: el espacio superior derecho ahora muestra la descripcion del modelo de cada orden, tomada automaticamente de Produccion"
               ]
 }
