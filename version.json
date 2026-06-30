@@ -1,11 +1,11 @@
 {
-    "version":  "1.6.7",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.6.7/ERP-Calzado-Piolito-1.6.7.exe",
-    "size":  93506560,
-    "sha256":  "b8aaaea7c11c8cad7deadb20754651ddbc1f2f4217afbc447b843060ed35c361",
+    "version":  "1.7",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.7/ERP-Calzado-Piolito-1.7.exe",
+    "size":  93510656,
+    "sha256":  "e61e454ffeeac6abee67c9a44989daff48ad859e1ca386dec28aa1a2c7b83ee3",
     "notes":  [
-                  "Stickers de cajas: nuevo diseno tipo etiqueta (talla grande a la izquierda; modelo y color arriba a la derecha; referencia abajo a la izquierda). El color se toma de Ventas. Etiquetas mas juntas y sin recuadro de corte",
-                  "PDF Consolidado de produccion: se reemplaza Articulo por Plantilla (dato de Ventas), se quita el pie de pagina y el documento se imprime mas grande",
-                  "Tarjetas de control compactas: se reemplaza Articulo por Plantilla y las tarjetas se imprimen un poco mas grandes"
+                  "Stickers por cliente: nuevo boton en Ventas que genera en un solo PDF los stickers de todos los pedidos activos de un cliente. Ya NO es obligatorio completar los datos PDF de la OP: si faltan, se usa el codigo de la OP como referencia",
+                  "Numero de OP corregido en las tarjetas: las OP de pedidos con grupos (OP-XXX-G1, -G2...) mostraban el numero de grupo en vez del numero de orden. Ahora muestran el numero de orden a 7 digitos de forma uniforme en PDF Consolidado, PDF individual y Tarjetas compactas",
+                  "Baby Piolito: al programar un pedido Baby Piolito, cada grupo de color queda limitado a tallas 15-21 (no deja guardar grupos fuera de ese rango)"
               ]
 }
