@@ -1,11 +1,14 @@
 {
-    "version":  "1.7.2",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.7.2/ERP-Calzado-Piolito-1.7.2.exe",
-    "size":  93522944,
-    "sha256":  "69ec47c42506de9298d1b624740889f6b8f3db6cc498721ba8a07b55529ddade",
+    "version":  "1.7.3",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.7.3/ERP-Calzado-Piolito-1.7.3.exe",
+    "size":  93563904,
+    "sha256":  "1d1226fa55b78ea76ac45c4092088f616aada388449e50ca01a4e44126162bc5",
     "notes":  [
-                  "Iniciar produccion por cliente: nuevo boton en Produccion que inicia de una sola vez todas las OPs pendientes de un cliente, asignando los mismos operarios y jefe a la primera etapa (ya no hay que iniciar OP por OP)",
-                  "Avanzar etapa por cliente: nuevo boton que avanza varias OPs de un cliente a la vez. Si todas estan en la misma etapa, avanzan juntas; si estan en etapas distintas, se elige que etapa avanzar",
+                  "Iniciar produccion por cliente: nuevo boton en Produccion que inicia de una sola vez todas las OPs pendientes de un cliente (ya no hay que iniciar OP por OP)",
+                  "Avanzar etapa por cliente: nuevo boton que avanza varias OPs de un cliente a la vez. Si estan en etapas distintas, se elige que etapa avanzar. Los lotes son atomicos (todo o nada)",
+                  "Reporte de Produccion en Proceso: nueva pestana en Resumen de Produccion que muestra en que etapa esta cada tarjeta, con totales por etapa, filtros (cliente, pedido, OP, modelo, fecha, estado) y exportacion a PDF, Excel e impresion",
+                  "Precio independiente por talla en Ventas: por defecto el precio de serie gobierna toda la curva, pero se puede activar un precio distinto por talla (bloquea el precio unitario global)",
+                  "Autocompletar modelo: al escribir en el campo Modelo de un pedido aparecen los modelos ya registrados; los nuevos quedan disponibles automaticamente",
                   "Stickers de rollo: se ajusto la separacion entre etiquetas (gap 0.23 cm) para corregir el desfase progresivo en impresoras de rollo continuo"
               ]
 }
