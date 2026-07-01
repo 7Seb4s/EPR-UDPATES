@@ -1,11 +1,11 @@
 {
-    "version":  "1.7",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.7/ERP-Calzado-Piolito-1.7.exe",
-    "size":  93510656,
-    "sha256":  "e61e454ffeeac6abee67c9a44989daff48ad859e1ca386dec28aa1a2c7b83ee3",
+    "version":  "1.7.2",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.7.2/ERP-Calzado-Piolito-1.7.2.exe",
+    "size":  93522944,
+    "sha256":  "69ec47c42506de9298d1b624740889f6b8f3db6cc498721ba8a07b55529ddade",
     "notes":  [
-                  "Stickers por cliente: nuevo boton en Ventas que genera en un solo PDF los stickers de todos los pedidos activos de un cliente. Ya NO es obligatorio completar los datos PDF de la OP: si faltan, se usa el codigo de la OP como referencia",
-                  "Numero de OP corregido en las tarjetas: las OP de pedidos con grupos (OP-XXX-G1, -G2...) mostraban el numero de grupo en vez del numero de orden. Ahora muestran el numero de orden a 7 digitos de forma uniforme en PDF Consolidado, PDF individual y Tarjetas compactas",
-                  "Baby Piolito: al programar un pedido Baby Piolito, cada grupo de color queda limitado a tallas 15-21 (no deja guardar grupos fuera de ese rango)"
+                  "Iniciar produccion por cliente: nuevo boton en Produccion que inicia de una sola vez todas las OPs pendientes de un cliente, asignando los mismos operarios y jefe a la primera etapa (ya no hay que iniciar OP por OP)",
+                  "Avanzar etapa por cliente: nuevo boton que avanza varias OPs de un cliente a la vez. Si todas estan en la misma etapa, avanzan juntas; si estan en etapas distintas, se elige que etapa avanzar",
+                  "Stickers de rollo: se ajusto la separacion entre etiquetas (gap 0.23 cm) para corregir el desfase progresivo en impresoras de rollo continuo"
               ]
 }
