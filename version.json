@@ -1,8 +1,9 @@
-    "version":  "1.7.7",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.7.7/ERP-Calzado-Piolito-1.7.7.exe",
-    "size":  93559808,
-    "sha256":  "b905527be3dafd8c0377665ddc132b8bb76e296ee5d5b02f220d4ff3ab281576",
+{
+    "version":  "1.7.8",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.7.8/ERP-Calzado-Piolito-1.7.8.exe",
+    "size":  93568000,
+    "sha256":  "99a57bdeb60c40ba726cd27ee8e871b4ddf299da749f0ea62680684e0dff769f",
     "notes":  [
-                  "Ajuste de stickers (etiquetas de caja): se corrigio la deriva vertical que hacia que las etiquetas fueran subiendo fila a fila y no cuadraran con el papel pre-cortado A4. Se ajusto la separacion entre etiquetas (gap) y el margen superior de la hoja para que la columna quede alineada de la primera a la ultima. Aplica tanto a los stickers por pedido como a los stickers por cliente (comparten la misma geometria)"
+                  "Especificaciones tecnicas Ventas-Produccion: ahora lo que se escribe en el grupo de color de la venta (cueros, forro, badana, planta, cerco, metales, hilos, cierre, acabado y horma) llega automaticamente a la Orden de Produccion sin volver a escribirlo a mano. Se corrigio un error por el que en pedidos con varios grupos de color Produccion tomaba las specs del grupo equivocado (siempre el primero) en vez del que corresponde a cada OP. Si Produccion edita esas specs, los cambios se guardan de vuelta en la venta (sincronizacion en ambos sentidos). Nuevo campo Horma en la venta, por grupo de color, que se vincula a la OP."
               ]
 }
