@@ -1,9 +1,9 @@
 {
-    "version":  "1.8.0",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.8.0/ERP-Calzado-Piolito-1.8.0.exe",
-    "size":  93563904,
-    "sha256":  "68c49172a57a048b6c529b9695248ce25514c49c83294f1da3eec84f9cd6bd86",
+    "version":  "1.9.0",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.9.0/ERP-Calzado-Piolito-1.9.0.exe",
+    "size":  93580288,
+    "sha256":  "426981cfb6c870c8566168e91e9665790eb02fc3a7b4c38726adcdda05b60288",
     "notes":  [
-                  "Tarjetas de Control por lotes de 5 pares: al imprimir las tarjetas de Produccion (tanto la individual como las compactas de 4 por hoja) ahora sale una tarjeta por cada lote de 5 pares, con las tallas que le tocan a ese lote y los cuponcitos con los pares del lote. Las tallas se descuentan de la curva de menor a mayor, asi que un lote puede mezclar dos tallas y la suma de todos los lotes reconstruye la curva exacta. El resto impar se suma al ultimo lote (41 pares = 7 lotes de 5 y uno de 6). La Orden de Produccion no se divide, es un solo documento: ahora incluye una seccion PLAN DE LOTES que detalla cuantas tarjetas saldran y con que tallas cada una. El PDF Consolidado muestra el numero de lotes de cada OP. Los lotes solo existen en el PDF: no cambia nada en la base de datos ni en las etapas de produccion."
+                  "Etiquetas de grupo para los pedidos: ahora puedes marcar cada pedido con una etiqueta de nombre libre y color (por ejemplo Tienda 1) para agrupar visualmente varios pedidos que van juntos. En la lista de Ventas hay una columna Grupo: haces clic en la celda, escribes el nombre (o eliges uno que ya usaste), seleccionas un color y guardas; los pedidos con la misma etiqueta se ven con el mismo chip de color. En Produccion cada orden muestra automaticamente la etiqueta del pedido del que salio (ahi es solo para verla). El buscador de Ventas y de Produccion tambien filtra por el nombre de la etiqueta. Es puramente visual: no genera stickers ni cambia la logica del sistema; solo agrega el nombre y color del grupo al pedido."
               ]
 }
