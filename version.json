@@ -1,9 +1,9 @@
 {
-    "version":  "1.9.0",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.9.0/ERP-Calzado-Piolito-1.9.0.exe",
-    "size":  93580288,
-    "sha256":  "426981cfb6c870c8566168e91e9665790eb02fc3a7b4c38726adcdda05b60288",
+    "version":  "1.10.0",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.10.0/ERP-Calzado-Piolito-1.10.0.exe",
+    "size":  93584384,
+    "sha256":  "a133c99ad624561f1834695dc01922ea088dda59408231d724bb631b8fd450b2",
     "notes":  [
-                  "Etiquetas de grupo para los pedidos: ahora puedes marcar cada pedido con una etiqueta de nombre libre y color (por ejemplo Tienda 1) para agrupar visualmente varios pedidos que van juntos. En la lista de Ventas hay una columna Grupo: haces clic en la celda, escribes el nombre (o eliges uno que ya usaste), seleccionas un color y guardas; los pedidos con la misma etiqueta se ven con el mismo chip de color. En Produccion cada orden muestra automaticamente la etiqueta del pedido del que salio (ahi es solo para verla). El buscador de Ventas y de Produccion tambien filtra por el nombre de la etiqueta. Es puramente visual: no genera stickers ni cambia la logica del sistema; solo agrega el nombre y color del grupo al pedido."
+                  "Historial de ventas por mes: ahora puedes ver cuanto se vendio en meses anteriores, no solo el mes actual. En la vista de Ventas hay una nueva tarjeta \u0027Historial de Ventas por Mes\u0027 con una barra por cada uno de los ultimos 12 meses; haces clic en cualquier mes y arriba se muestra su detalle (total vendido en soles, cantidad de pedidos, pares y pedidos entregados). En el Dashboard de inicio se agrego un grafico \u0027Ventas Mensuales - Ultimos 6 meses\u0027 con el resumen del periodo (total, mejor mes, promedio por mes y pedidos). Ademas el asistente Piolito ya puede responder preguntas como cuanto se vendio el mes pasado. Correccion: el indicador \u0027Ventas del Mes\u0027 ahora calcula bien el mes (antes podia mezclar el mismo mes de anios distintos) y ya no cuenta como venta los pedidos anulados o cancelados."
               ]
 }
