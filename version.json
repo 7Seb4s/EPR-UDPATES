@@ -1,9 +1,9 @@
 {
-    "version":  "1.10.0",
-    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.10.0/ERP-Calzado-Piolito-1.10.0.exe",
-    "size":  93584384,
-    "sha256":  "a133c99ad624561f1834695dc01922ea088dda59408231d724bb631b8fd450b2",
+    "version":  "1.11.0",
+    "downloadUrl":  "https://github.com/7Seb4s/EPR-UDPATES/releases/download/v1.11.0/ERP-Calzado-Piolito-1.11.0.exe",
+    "size":  93596672,
+    "sha256":  "efb8dc65c8b5d9a13588a6e638bbac459be384306198acd308ce233d296e3401",
     "notes":  [
-                  "Historial de ventas por mes: ahora puedes ver cuanto se vendio en meses anteriores, no solo el mes actual. En la vista de Ventas hay una nueva tarjeta \u0027Historial de Ventas por Mes\u0027 con una barra por cada uno de los ultimos 12 meses; haces clic en cualquier mes y arriba se muestra su detalle (total vendido en soles, cantidad de pedidos, pares y pedidos entregados). En el Dashboard de inicio se agrego un grafico \u0027Ventas Mensuales - Ultimos 6 meses\u0027 con el resumen del periodo (total, mejor mes, promedio por mes y pedidos). Ademas el asistente Piolito ya puede responder preguntas como cuanto se vendio el mes pasado. Correccion: el indicador \u0027Ventas del Mes\u0027 ahora calcula bien el mes (antes podia mezclar el mismo mes de anios distintos) y ya no cuenta como venta los pedidos anulados o cancelados."
+                  "Stock por talla en Plantas: ahora puedes editar y descontar el stock de cada talla por separado, ya no solo el total del modelo. En Inventario \u003e pestana Plantas selecciona un modelo y usa el boton \u0027Editar stock por talla\u0027 (o haz clic en cualquier tarjeta de talla): escribes los pares reales de cada talla y el sistema calcula solo el ingreso o el descuento, lo registra en el kardex con su talla y recalcula el total del modelo como la suma de sus tallas. En el mismo editor puedes fijar el stock minimo de cada talla (la alerta de quiebre por talla), agregar tallas que falten y quitar tallas de la curva; si la talla que quitas tenia stock, se descarga como salida para que el kardex cuadre. Cada ajuste queda con su motivo (conteo fisico, merma, correccion) y en auditoria. Ademas, al registrar una entrada general se avisa cuando el material es una planta, porque ese ingreso no se reparte entre las tallas."
               ]
 }
